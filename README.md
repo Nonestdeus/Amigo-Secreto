@@ -47,8 +47,13 @@
 Estructura del proyecto
 amigo-secreto/
 ├── index.html          # Archivo principal con la estructura HTML.
+
 ├── style.css           # Archivo de estilos CSS.
+
 ├── app.js              # Archivo JavaScript con la lógica del proyecto.
+
 ├── assets/             # Carpeta con imágenes y recursos.
+
 │   └── amigo-secreto.png
+
 └── README.md           # Este archivo.
