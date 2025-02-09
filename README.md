@@ -45,7 +45,7 @@
   El nombre del ganador se mostrará en la pantalla.
 
 Estructura del proyecto
-/
+amigo-secreto/
 ├── index.html          # Archivo principal con la estructura HTML.
 ├── style.css           # Archivo de estilos CSS.
 ├── app.js              # Archivo JavaScript con la lógica del proyecto.
